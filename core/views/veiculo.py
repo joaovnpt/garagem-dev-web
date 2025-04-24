@@ -1,4 +1,4 @@
-from rest_framewok.viewsets import ModelViewSet
+from rest_framework.viewsets import ModelViewSet
 
 from core.models import Veiculo
 from core.serializers import VeiculoSerializer
